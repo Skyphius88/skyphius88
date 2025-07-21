@@ -11,12 +11,11 @@
 ## Projects
 
 ### Hackathons
-- **[VerifyAI Chrome Extension](https://github.com/niclee1803/Verify-AI-Chrome-Extension)** – Chrome extension that verifies fake news / deepfakes in‑page. Built for NTU Techfest 2025.  
+- **[VerifyAI Chrome Extension](https://github.com/niclee1803/Verify-AI-Chrome-Extension)** – A chrome extension designed to help users verify fake news or AI-generated deepfakes, without needing to leave their current tab. Developed for NTU Techfest 2025.
 
 ### School Projects
-- **[Hospital Management System](https://github.com/niclee1803/Hospital-Management-System-HMS)** – CLI Java app for SC2002 (Object‑Oriented Design & Programming).  
-- **[Heart‑Disease Prediction](https://github.com/niclee1803/Heart-Disease-Prediction-ML)** – Decision Tree & KNN model in Python for SC1015.
-
+- **[Hospital Management System](https://github.com/niclee1803/Hospital-Management-System-HMS)** – A command-line interface Hospital Management System application built in Java for SC2002: Object-Oriented Design and Programming.
+- **[Heart‑Disease Prediction](https://github.com/niclee1803/Heart-Disease-Prediction-ML)** – A machine learning project predicting heart disease using Decision Tree and KNN classifiers with a focus on clinical features implemented in Python for SC1015: Introduction to Data Science and Artificial Intelligence.
 ---
 
 ## Technologies & Tools
