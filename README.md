@@ -10,9 +10,6 @@
 
 ## Projects
 
-### Personal Projects
-- **[PROJECT_NAME](PROJECT_LINK)** – SHORT DESCRIPTION (what it does, tech stack).
-
 ### Hackathons
 - **[VerifyAI Chrome Extension](REPO_LINK)** – Chrome extension that verifies fake news / deepfakes in‑page. Built for NTU Techfest 2025.  
 - **[ExpeditionExpertBot](REPO_LINK)** – Telegram bot that books flights via third‑party API; won *Honorable Mention* at HackSwift 2024.
