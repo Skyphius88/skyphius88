@@ -2,7 +2,7 @@
 <h1 align="center">Hi there! 👋 I'm Trevyen </h1>
 
 ## About Me
-- **Year3 Computer Engineering** @ NTU, Singapore  
+- **Year4 Computer Engineering** @ NTU, Singapore  
 - Passionate about **Data Science** and **Cybersecurity**  
 - Languages: English, 中文  
 
